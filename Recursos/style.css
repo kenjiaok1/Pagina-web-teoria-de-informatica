@@ -1,0 +1,93 @@
+*{
+    margin:0;
+}
+header{
+    text-align: center;
+    background-color: rgb(59, 60, 61);
+    color:rgb(255, 255, 255);
+    font-family: cursive;
+    font-size: 50px;
+    border: dashed 6px rgb(0, 0, 0);
+
+    margin:auto;
+}
+
+body{
+    background-image: url(./Imagenes/Backgrund.jpg);
+   text-align: center;
+}
+h1{
+    font-family: 'Knewave', cursive;
+
+}
+.menu{
+    margin:auto;
+    
+}
+
+table{
+    background-color: rgb(146, 146, 146);
+    border:0px;
+    border-spacing: 15px;
+    table-layout: auto;
+    font-size: 50px;
+    border-collapse: collapse;
+    padding: 80px;
+}
+
+td, th{
+    border:1px solid black
+    
+}
+
+p{ 
+    color:rgb(174, 177, 177);
+    font-size: 45px;
+
+}
+h2{
+    color:aliceblue;
+    font-size: 85px;
+    text-align: center;
+
+
+}
+.Fotos{
+    width: 750px;
+    height: 750px;
+}
+h5{
+    text-align: center;
+    color:aliceblue;
+    font-family: helvetica ;
+    font-size:100px ;
+    display:fixed ;
+    
+}
+
+footer{
+    text-align: center;
+    background-color:black;
+    color:aliceblue;
+    font-family: helvetica ;
+    font-size:50px ;
+   ;
+}
+a:link{
+    color:blueviolet;
+}
+a:visited{
+    color:orange;
+}
+a:hover{
+    color:brown
+}
+a:active{
+    color:green;
+}
+ul{
+    font-weight: bold;
+    color:rgb(174, 177, 177) ;
+    font-size: 45px;
+
+}

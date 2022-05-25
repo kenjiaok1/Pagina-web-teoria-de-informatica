@@ -1,0 +1,28 @@
+header{
+    text-align: center;
+    background-color: rgb(176, 191, 218);
+    color:black;
+    font-family: cursive;
+    font-size: 50px;
+    border: dashed 6px black;
+   
+    margin:auto;
+}
+.menu{
+    margin:auto;
+    
+}
+table{
+    background-color: beige;
+    border:0px;
+    border-spacing: 15px;
+    table-layout: auto;
+    font-size: 50px;
+    margin:10px;
+    border-collapse: collapse;
+    padding: 80px;
+}
+td, th{
+    border:1px solid black
+    
+}
